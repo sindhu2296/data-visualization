@@ -1,0 +1,966 @@
+{
+   "name":"final_json_data",
+   "children":
+   [
+      {
+         "name":2004,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":113
+                  },
+                  {
+                     "name":"Marat Safin",
+                     "value":93
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":88
+                  },
+                  {
+                     "name":"Juan Carlos Ferrero",
+                     "value":66
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "value":170
+                  },
+                  {
+                     "name":"Andre Agassi",
+                     "value":171
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Juan Carlos Ferrero",
+                     "value":148
+                  },
+                  {
+                     "name":"Hicham Arazi",
+                     "value":154
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":125
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "value":119
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andre Agassi",
+                     "value":45
+                  },
+                  {
+                     "name":"Sebastien Grosjean",
+                     "value":30
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "value":148
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "value":154
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2005,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "value":122
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "value":113
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Lleyton Hewitt",
+                     "value":142
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "value":127
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "value":194
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":201
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Lleyton Hewitt",
+                     "value":158
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "value":153
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "value":88
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "value":65
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":99
+                  },
+                  {
+                     "name":"Andre Agassi",
+                     "value":79
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "value":85
+                  },
+                  {
+                     "name":"Dominik Hrbaty",
+                     "value":56
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2006,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":142
+                  },
+                  {
+                     "name":"Marcos Baghdatis",
+                     "value":116
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":129
+                  },
+                  {
+                     "name":"Nicolas Kiefer",
+                     "value":99
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Marcos Baghdatis",
+                     "value":152
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "value":143
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":144
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "value":139
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Nicolas Kiefer",
+                     "value":160
+                  },
+                  {
+                     "name":"Sebastien Grosjean",
+                     "value":169
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Nalbandian",
+                     "value":90
+                  },
+                  {
+                     "name":"Fabrice Santoro",
+                     "value":50
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marcos Baghdatis",
+                     "value":146
+                  },
+                  {
+                     "name":"Ivan Ljubicic",
+                     "value":139
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2007,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":120
+                  },
+                  {
+                     "name":"Fernando Gonzalez",
+                     "value":93
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Fernando Gonzalez",
+                     "value":82
+                  },
+                  {
+                     "name":"Tommy Haas",
+                     "value":45
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":83
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "value":45
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Tommy Haas",
+                     "value":134
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "value":132
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Fernando Gonzalez",
+                     "value":89
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "value":73
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":119
+                  },
+                  {
+                     "name":"Tommy Robredo",
+                     "value":94
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "value":85
+                  },
+                  {
+                     "name":"Mardy Fish",
+                     "value":46
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2008,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":136
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":122
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":118
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":104
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":89
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "value":57
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":107
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "value":77
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":115
+                  },
+                  {
+                     "name":"James Blake",
+                     "value":97
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":110
+                  },
+                  {
+                     "name":"Mikhail Youzhny",
+                     "value":82
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":102
+                  },
+                  {
+                     "name":"Jarkko Nieminen",
+                     "value":81
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2009,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":173
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":174
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":193
+                  },
+                  {
+                     "name":"Fernando Verdasco",
+                     "value":192
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":105
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "value":85
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":105
+                  },
+                  {
+                     "name":"Gilles Simon",
+                     "value":83
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Fernando Verdasco",
+                     "value":129
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":114
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":83
+                  },
+                  {
+                     "name":"Juan Martin Del Potro",
+                     "value":36
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Roddick",
+                     "value":114
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "value":88
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2010,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":116
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "value":100
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":85
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":54
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":125
+                  },
+                  {
+                     "name":"Marin Cilic",
+                     "value":106
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":125
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "value":104
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":158
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "value":155
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Marin Cilic",
+                     "value":147
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "value":149
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":94
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "value":75
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2011,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":106
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "value":78
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":152
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "value":141
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":119
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":111
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Ferrer",
+                     "value":102
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "value":75
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":152
+                  },
+                  {
+                     "name":"Alexandr Dolgopolov",
+                     "value":124
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":107
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "value":80
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":90
+                  },
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "value":66
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2012,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":193
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "value":176
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":184
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "value":161
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":146
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":130
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":105
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "value":84
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":104
+                  },
+                  {
+                     "name":"Kei Nishikori",
+                     "value":71
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":96
+                  },
+                  {
+                     "name":"Juan Martin Del Potro",
+                     "value":68
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "value":157
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "value":147
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":2013,
+         "children":[
+            {
+               "name":"Final",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":139
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "value":126
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":177
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "value":151
+                  }
+               ]
+            },
+            {
+               "name":"semi",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":85
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "value":41
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Andy Murray",
+                     "value":89
+                  },
+                  {
+                     "name":"Jeremy Chardy",
+                     "value":63
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "value":169
+                  },
+                  {
+                     "name":"JoWilfried Tsonga",
+                     "value":164
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "value":118
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "value":86
+                  }
+               ]
+            },
+            {
+               "name":"quarter",
+               "children":[
+                  {
+                     "name":"David Ferrer",
+                     "value":165
+                  },
+                  {
+                     "name":"Nicolas Almagro",
+                     "value":150
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
